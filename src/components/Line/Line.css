@@ -1,0 +1,7 @@
+.line {
+    width: 100%;
+    margin: 15px 0px 20px;
+    border-bottom: 1px solid #dadada;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.16);
+  }
+  

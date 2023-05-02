@@ -1,0 +1,31 @@
+.slider {
+  display: flex;
+  justify-content: center;
+  margin: 45px 0px;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+}
+
+.nav-item {
+  background-color: #ffffff;
+  border: none;
+  border-radius: 100px;
+  outline: none !important;
+}
+
+.nav-item:hover {
+  cursor: pointer;
+}
+
+.activeButton {
+  background: #ffd20033;
+}
+
+.svg-arrow-icon {
+    cursor: pointer;
+}

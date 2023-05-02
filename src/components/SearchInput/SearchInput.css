@@ -1,0 +1,23 @@
+.form-inline {
+  width: 425px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#search-input {
+  height: 39px;
+  border-radius: 30px;
+  border: 1px solid #dadada;
+  padding-left: 25px;
+}
+
+#search-input:focus {
+  border: 1px solid #ffd200;
+  outline: none !important;
+}
+
+.search-icon {
+  position: absolute;
+  padding-right: 15px;
+  cursor: pointer;
+}

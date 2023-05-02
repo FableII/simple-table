@@ -1,0 +1,19 @@
+.date-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.date-text {
+  color: #666666;
+}
+
+.date-input {
+  width: 164px;
+  color: #acacac;
+  border: 1px solid #dadada;
+  border-radius: 5px;
+  padding: 5px 10px;
+  outline: none;
+}

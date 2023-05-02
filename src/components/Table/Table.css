@@ -1,0 +1,30 @@
+.table-container {
+  border: 1px solid #dadada;
+  min-height: 691px;
+  min-width: 785px;
+}
+
+.table-head {
+  height: 51px;
+  background-color: #eeeeee;
+}
+
+.table-head-item {
+  font-weight: 300;
+  padding: 17px 20px 18px !important;
+}
+
+.table-body-item {
+  font-weight: 400;
+  padding: 22px 20px !important;
+}
+
+.table-body-row {
+  height: 68px;
+  border-bottom: 1px solid #dadada;
+  cursor: pointer;
+}
+
+.table-body-row:hover {
+  background-color: #ffd2001a !important;
+}

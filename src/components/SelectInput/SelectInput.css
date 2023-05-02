@@ -1,0 +1,31 @@
+#dropdownMenuButton {
+  width: 164px;
+  height: 39px;
+  color: #000000;
+  background-color: #ffffff;
+  border: 1px solid #dadada;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 10px;
+}
+
+.dropdown-menu {
+  padding: 0px;
+}
+
+.dropdown-item {
+  padding: 5px 10px;
+}
+
+.dropdown-item:hover {
+  background-color: #ffd2001a;
+  cursor: pointer;
+}
+
+.dropdown-item:active {
+  color: #000000;
+  background-color: #ffd2001a;
+  outline: none;
+}
